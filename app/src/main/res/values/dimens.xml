@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fonte_lbl">18sp</dimen>
+    <dimen name="fonte_lbl_sw600">24sp</dimen>
+</resources>

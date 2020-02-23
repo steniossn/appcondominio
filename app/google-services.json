@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "878356973341",
+    "firebase_url": "https://condominio-98bda.firebaseio.com",
+    "project_id": "condominio-98bda",
+    "storage_bucket": "condominio-98bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878356973341:android:ebae7fcd1af44cab2543f4",
+        "android_client_info": {
+          "package_name": "com.example.portaria.cadastro_condominio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878356973341-ogo4j6o9h5tg8ekif6j1jnebcu4pcp6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.portaria.cadastro_condominio",
+            "certificate_hash": "603a96732e86a7a72c785744eac31e344c1d4c86"
+          }
+        },
+        {
+          "client_id": "878356973341-4ncfakeuuhpdqqji6tjp8ndg865u5qdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcg0W7x7qd4MDeBajUs7dyhmvyOPmbl5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878356973341-4ncfakeuuhpdqqji6tjp8ndg865u5qdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

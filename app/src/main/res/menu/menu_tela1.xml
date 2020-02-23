@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_cadastrarCon"
+        android:title="@string/menu_tela1_cadastrar" />
+    <item
+        android:id="@+id/action_apagar_tudo"
+        android:title="@string/menu_tela1_deleteTd" />
+    <item
+        android:id="@+id/action_cadastrarCasa"
+        android:title="@string/menu_tela1_cadastrarCasa" />
+    <item
+        android:id="@+id/action_delete"
+        android:title="@string/menu_tela1_delete" />
+    <item
+        android:id="@+id/action_backup"
+        android:title="@string/menu_tela1_backup" />
+</menu>

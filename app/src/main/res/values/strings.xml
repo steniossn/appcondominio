@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Cadastro Condominio</string>
+    <string name="lbl_frase1">Informe um nome para cadastrar ou carregar!</string>
+    <string name="erro_conexao">não ha conexão com o banco de dados</string>
+    <string name="erro">ERRO!</string>
+    <string name="sucesso_conexao">conexão realizada com sucesso!</string>
+    <string name="erro_arquivo">arquivo não encontrado</string>
+    <string name="erro_dig">digite um numero</string>
+    <string name="input_pergunta">Quer salvar os dados?</string>
+    <string name="cancelar">cancelado</string>
+    <string name="btn_cancelar">cancelar</string>
+    <string name="arquivo_salvo">Arquivo salvo!</string>
+    <string name="erro_gravarArquivo">Arquivo não foi salvo!</string>
+    <string name="sucesso_arquivo">Cadastro feito!</string>
+    <string name="btn_pesquisar">ok</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="lbl_casa">Casa:</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="lbl_nome">Nome:</string>
+    <string name="lbl_tel">Tel:</string>
+    <string name="lbl_carros">Carros:</string>
+    <string name="lbl_diarista">Diarista:</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="btn_carregar">Carregar</string>
+    <string name="title_activity_tela1">tela1</string>
+    <string name="menu_btn_ok">ok</string>
+    <string name="menu_btn_cancelar">cancelar</string>
+    <string name="lbl_tela1_pasta">Condominio:</string>
+    <string name="lbl_tela1_arquivo">Casa:</string>
+    <string name="menu_tela1_cadastrar">cadastrar Condominio</string>
+    <string name="menu_tela1_cadastrarCasa">Cadastrar Casa</string>
+    <string name="msg_spCasa">nenhuma casa cadastrada</string>
+    <string name="msg_spCondominio">nenhum condominio cadastrado</string>
+    <string name="title_activity_cadastro_condominio">cadastroCondominio</string>
+    <string name="lbl_CadastroCondominio_nomeCon">Nome do novo Condominio?</string>
+    <string name="menu_tela1_delete">apagar casa</string>
+    <string name="menu_tela1_deleteTd">apagar condominio</string>
+    <string name="msg_apagado">arquivo apagado</string>
+    <string name="msg_erro_arquivo">arquivo não existe</string>
+    <string name="msg_alertDialog_apagar"> apagara todos os dados referentes a ele!\n  apagar?</string>
+    <string name="title_alert_apagar">AVISO!</string>
+    <string name="lbl_dica">Dica:</string>
+    <string name="rb_seleção">Manter Selecionado</string>
+    <string name="lbl_cb">manter selecionado</string>
+    <string name="msg_sim">sim</string>
+    <string name="msg_não">não</string>
+    <string name="lbl_Anotacoes">Anotações:</string>
+    <string name="menu_tela1_backup">backup</string>
+    <string name="aviso">aviso!</string>
+    <string name="addfuturo">Essa função sera adicionada no futuro!</string>
+    <string name="title_activity_tela">tela</string>
+
+
+</resources>
